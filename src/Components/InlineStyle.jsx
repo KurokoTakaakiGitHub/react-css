@@ -2,12 +2,12 @@ import React from "react";
 
 const containerStyle = {
   border: "solid 2px  #392eff",
-  borderRadus: "20px",
-  padinng: "8px",
+  borderRadius: "20px",
+  padding: "8px",
   margin: "8px",
   display: "flex",
   justifyContent: "space-around",
-  aligItems: "center"
+  alignItems: "center"
 };
 
 const titleStyle = {
@@ -16,7 +16,7 @@ const titleStyle = {
 };
 
 const buttonStyle = {
-  backgroundcolor: "#abedd8",
+  backgroundColor: "#abedd8",
   border: "none",
   padding: "8px",
   borderRadius: "8px"
